@@ -1,0 +1,9 @@
+8
+alura
+casa do codigo
+programador
+code smell
+ruby
+jogo da forca
+software
+string
